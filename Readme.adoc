@@ -1,0 +1,101 @@
+= Curriculum vitae Cristian Romero Matesanz
+
+== Personal Data
+
+[frame=all,grid=none, cols="1s,1"]
+|===
+
+| Name | Cristian
+
+| Surname | Romero
+
+| Birth's date | 20th Julio 1981, Madrid
+
+| Nationality | Spain
+
+| Mail | cristianprofile@gmail.com
+
+| Gender | Male
+
+|===
+
+== Profile
+
+I am an enthusiastic programmer, in 2 words I am an eternal student.
+14 years using a lot of languages, but specialized in JAVA SPRING
+and every Frameworks around it. I love Kotlin language because
+it has a lot of features that make my life as programmer easier. (I hate null pointer exception)
+
+Interested in web, mobile, testing new databases needed to be able to resolve
+new problems with a better approach than old relational database:
+
+Elasticsearch, Redis, Mongo, Neo4j, Influxdb.
+
+This last year I am learning the complex word :microservices solutions.I am learning new ways of work with a complex
+distribution system. Actually I am trying to learn how to use new Kafka solutionto be able to create event driven microservices and studying
+new ways to create application improving startup time like Micronaut (Spring boot is improving startup time but it is too slow yet)
+
+<<<
+
+== Education
+
+[frame=none,grid=none, cols="1s,1,2a"]
+|===
+
+| 2000-2005
+|
+| *Engineer’s Degree Computer Science Engineering* +
+_Universidad Carlos III Madrid_
+
+
+|===
+
+== Professional Experience
+
+[frame=none,grid=none, cols="1s,1,2a"]
+|===
+
+| 2005-Present
+|
+|  *Senior Backend developer* +
+
+Big companies: _BBVA,BANKINTER,TELEFONICA,REDSYS,EQUIFAX,IDEALISTA,UNION FENOSA, VODAFONE_
+
+Startups:
+_MYMOID,WUL4,4INNOVATION_
+
+*Frameworks* Spring Boot, Java 11/Kotlin,Maven, unit and integration test (Mockito, PowerMock, Postman), Vertx, Micronaut
+
+*Ide* Intellij lover
+
+*Build automation tool* Maven/Gradle
+
+*CI* Gitlab CI / Jenkins 2
+
+*Issues Management* Jira or Gitlab/Github issues (the same as Spring team)
+
+*Relational Databases* Oracle, Mysql, Postgresql
+
+*Non relational Databases* Elasticsearch (Elk/search engine using aggregates), Redis (Cache),
+Neo4j (graph database), Influxdb (time serie database analystics purpose), mongoDb(documents)
+
+*Container/deployment* Docker and Kubernetes (only used and configured as developer. I am not a devops profile)
+
+*"Real time" Analytics* Grafana/Kibana
+
+|===
+
+<<<
+
+== Projects
+.As developer Hosted on github
+* https://github.com/cristianprofile
+
+.As teacher: Hosted on slideshare
+* https://es.slideshare.net/cristianromeromatesanz
+
+.Helping software community: Hosted on stackoverflow
+* https://stackoverflow.com/users/4615649/cristian-romero-matesanz
+
+== Interests & Additional Information
+I love all kind of music, in special electronic music (it is one of my hobbies).
