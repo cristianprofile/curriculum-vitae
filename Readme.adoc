@@ -50,6 +50,29 @@ _Universidad Carlos III Madrid_
 
 |===
 
+== Profile Technology overview
+
+*Frameworks* Spring Boot, Java 11/Kotlin,Maven, unit and integration test (Mockito, PowerMock, Postman), Vertx, Micronaut
+
+*Programming language* Java 11(backend), Kotlin (backend), Groovy (Jenkins file and Gradle)
+
+*Ide* Intellij lover
+
+*Build automation tool* Maven/Gradle
+
+*CI* Gitlab CI / Jenkins 2
+
+*Issues Management* Jira or Gitlab/Github issues (the same as Spring team)
+
+*Relational Databases* Oracle, Mysql, Postgresql
+
+*Non relational Databases* Elasticsearch (Elk/search engine using aggregates), Redis (Cache),
+Neo4j (graph database), Influxdb (time serie database analystics purpose), mongoDb(documents)
+
+*Container/deployment* Docker and Kubernetes (only used and configured as developer. I am not a devops profile)
+
+*"Real time" Analytics* Grafana/Kibana
+
 == Professional Experience
 
 [frame=none,grid=none, cols="1s,1,2a"]
