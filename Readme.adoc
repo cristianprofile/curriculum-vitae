@@ -55,37 +55,116 @@ _Universidad Carlos III Madrid_
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2005-Present
+| 2017-Present
 |
-|  *Senior Backend developer* +
+|  *Senior Backend developer/Architect (Mymoid)* +
 
-Big companies: _BBVA,BANKINTER,TELEFONICA,REDSYS,EQUIFAX,IDEALISTA,UNION FENOSA, VODAFONE_
 
-Startups:
-_MYMOID,WUL4,4INNOVATION_
+*Job Description:* Backend Team Leader of payment gateway product solution PCI compliance connecting brands with its customers.
+Api Rest, Elk infrastructure, Analytics solution (Elasticsearch),Git .
 
-*Frameworks* Spring Boot, Java 11/Kotlin,Maven, unit and integration test (Mockito, PowerMock, Postman), Vertx, Micronaut
+*Tools* Spring Boot,Spring Data,Spring mvc, Spring Batch,Java 8/Kotlin,Maven, unit and integration test (Mockito, PowerMock, Postman),
+Jenkins 2 (Groovy pipelines), Mysql, Elasticsearch, Redis, Git
 
-*Programming language* Java 11(backend), Kotlin (backend), Groovy (Jenkins file and Gradle)
 
-*Ide* Intellij lover
+| 2015-2017
+|
+|  *Architect Leader/Functional Analyst (Adesis Netlife/GFT)* +
 
-*Build automation tool* Maven/Gradle
 
-*CI* Gitlab CI / Jenkins 2
+*Job Description:* Functional Analyst defining multi channel rest services BBVA Continental Perú.
+                   Architect Leader defining product solution using elasticsearch as primary databases (Bankia)
 
-*Issues Management* Jira or Gitlab/Github issues (the same as Spring team)
+*Tools* Spring Boot,Spring Data, Spring mvc, Java,Maven, unit and integration test (Mockito, PowerMock, Postman), Elasticsearch, Java 7,Git
 
-*Relational Databases* Oracle, Mysql, Postgresql
 
-*Non relational Databases* Elasticsearch (Elk/search engine using aggregates), Redis (Cache),
-Neo4j (graph database), Influxdb (time serie database analystics purpose), mongoDb(documents)
+| 2014-2015
+|
+|  *Architect (Entelgy)* +
 
-*Container/deployment* Docker and Kubernetes (only used and configured as developer. I am not a devops profile)
 
-*"Real time" Analytics* Grafana/Kibana
+*Job Description:*
+Architect Leader in Telefonica (Telco 3.0 project).Defining how to external programmers  create applications using Jenkins as CI.
+
+*Tools* Spring,Spring Data, Spring mvc, Java,Maven, unit and integration test (Mockito, PowerMock, Postman),Jenkins,Git.
+
+
+| 2013-2014
+|
+|  *Architect (Wul4)* +
+
+
+*Job Description:*
+Architect Leader/programmer in Redsys designing new disruptive wallet product (Iupay) with Spanish Banks like Banco Popular,Santander,
+Bankia,Sabadell,BBVA (www.iupay.es).
+
+*Tools* Spring,Spring Data,Java,Maven, Spring mvc, unit and integration test (Mockito, PowerMock),Svn.
+
+
+| 2012-2013
+|
+|  *Architect (Equifax)* +
+
+
+*Job Description:*
+Senior programmer in Equifax designing/programming maven archetypes for several products inside company. Prototypes were
+created with Spring Roo 1. One of the main product were migrate an old tool to a platform using sockets created with
+Spring integration using several integration patterns.
+
+*Tools* Spring,Spring Data,Java,Maven, Spring mvc, Spring Integration, Jenkins 1, unit and integration test (Mockito, PowerMock),Svn.
+
+
+
+| 2011-2012
+|
+|  *Analyst/programmer (Ministerio territorial)* +
+
+
+*Job Description:*
+Senior programmer in Ministerio territorial designing/programming several applications inside company using Alfresco
+as Document store solution. The backend solution was developed using Spring and fronted solution using Jsf with Primefaces
+
+*Tools* Spring,Spring Data,Java,Maven, Spring mvc, Jsf, unit and integration test,Svn
+
+
+| 2009-2011
+|
+|  *Analyst/programmer (Profile Software Services)* +
+
+
+*Job Description:*
+Senior programmer in Idealista designing/programming batch application solution for large customers.
+Senior programmer in Mutua Madrileña designing/programming j2ee tools using IBM portal (Portlets)
+
+*Tools* Spring,Spring Data,Java,Maven, html, css, javscript, jquery, Rad, Svn
+
+
+| 2007-2009
+|
+|  *Analyst/programmer (Union Fenosa)* +
+
+
+*Job Description:*
+Junior programmer in Union Fenosa designing/programming Union Fenosa portal (websphere portal IBM)
+
+
+*Tools* Java,Ant, html, css, javscript, jquery, Rad, Svn, Jsf
+
+
+| 2016-2007
+|
+|  *Analyst/programmer (Vodafone)* +
+
+
+*Job Description:*
+Junior programmer in Union Fenosa designing/programming integration process using Business work (Tibco)
+Tester of canal online vodafone portal solution
+
+
+*Tools* Java,Ant,Tibco, Business work, Svn
 
 |===
+
 
 <<<
 
