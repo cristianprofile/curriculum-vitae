@@ -35,7 +35,6 @@ This last year I am learning the complex word :microservices solutions.I am lear
 distribution system. Actually I am trying to learn how to use new Kafka solutionto be able to create event driven microservices and studying
 new ways to create application improving startup time like Micronaut (Spring boot is improving startup time but it is too slow yet)
 
-<<<
 
 == Education
 
@@ -49,6 +48,8 @@ _Universidad Carlos III Madrid_
 
 
 |===
+
+<<<
 
 == Profile Technology overview
 
