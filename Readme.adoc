@@ -52,13 +52,17 @@ _Universidad Carlos III Madrid_
 
 == Profile Technology overview
 
-*Frameworks* Spring Boot, Java 11/Kotlin,Maven, unit and integration test (Mockito, PowerMock, Postman), Vertx, Micronaut
+*Frameworks* Spring Boot 2, Spring 5 (mvc, core, data security etc ...) , Vertx, Micronaut, unit and integration test (Mockito, PowerMock, Postman).
 
 *Programming language* Java 11(backend), Kotlin (backend), Groovy (Jenkins file and Gradle)
 
-*Ide* Intellij lover
+*Ide* Intellij lover (I'm a pro licence owner).I love to pay tools that make my programmer life easier.
 
 *Build automation tool* Maven/Gradle
+
+*Preferred SO* Macos with unix (the best from windows and similar commands in terminal to Linux)
+
+*Preferred Computer* Macbook pro of course :)
 
 *CI* Gitlab CI / Jenkins 2
 
