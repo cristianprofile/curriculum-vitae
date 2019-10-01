@@ -78,6 +78,8 @@ Neo4j (graph database), Influxdb (time serie database analystics purpose), mongo
 
 *"Real time" Analytics*: Grafana/Kibana
 
+<<<
+
 == Professional Experience
 
 [frame=none,grid=none, cols="1s,1,2a"]
