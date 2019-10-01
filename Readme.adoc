@@ -178,7 +178,7 @@ Junior programmer in Union Fenosa designing/programming Union Fenosa portal (web
 *Tools* Java,Ant, html, css, javscript, jquery, Rad, Svn, Jsf
 
 
-| 2016-2007
+| 2006-2007
 |
 |  *Analyst/programmer (Vodafone)* +
 
