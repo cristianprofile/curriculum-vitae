@@ -66,6 +66,8 @@ _MYMOID,WUL4,4INNOVATION_
 
 *Frameworks* Spring Boot, Java 11/Kotlin,Maven, unit and integration test (Mockito, PowerMock, Postman), Vertx, Micronaut
 
+*Programming language* Java 11(backend), Kotlin (backend), Groovy (Jenkins file and Gradle)
+
 *Ide* Intellij lover
 
 *Build automation tool* Maven/Gradle
