@@ -83,10 +83,23 @@ Neo4j (graph database), Influxdb (time serie database analystics purpose), mongo
 
 == Professional Experience
 
+
+| 2020-Present
+|
+|  *Backend Architect (Profile) * +
+
+
+*Job Description:* Backend Arquitect using Spring/Java/Kotlin creating solutions for Profile's clients.
+                   Design an create solutions internal products.
+
+*Tools* Spring Boot,Spring Data, Spring mvc, Java,Maven, unit and integration test (Mockito, PowerMock, Postman), Elasticsearch, Java 7,Git
+
+
+
 [frame=none,grid=none, cols="1s,1,2a"]
 |===
 
-| 2017-Present
+| 2017-2019
 |
 |  *Senior Backend developer/Architect (Mymoid)* +
 
