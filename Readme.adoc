@@ -84,6 +84,11 @@ Neo4j (graph database), Influxdb (time serie database analystics purpose), mongo
 == Professional Experience
 
 
+
+[frame=none,grid=none, cols="1s,1,2a"]
+|===
+
+
 | 2020-Present
 |
 |  *Backend Architect (Profile) * +
@@ -95,9 +100,6 @@ Neo4j (graph database), Influxdb (time serie database analystics purpose), mongo
 *Tools* Spring Boot,Spring Data, Spring mvc, Java,Maven, unit and integration test (Mockito, PowerMock, Postman), Elasticsearch, Java 7,Git
 
 
-
-[frame=none,grid=none, cols="1s,1,2a"]
-|===
 
 | 2017-2019
 |
