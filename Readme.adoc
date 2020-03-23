@@ -95,9 +95,9 @@ Neo4j (graph database), Influxdb (time serie database analystics purpose), mongo
 
 
 *Job Description:* Backend Arquitect using Spring/Java/Kotlin creating solutions for Profile's clients.
-                   Design an create solutions internal products.
+                   Design/Create internal product definition.
 
-*Tools* Spring Boot,Spring Data, Spring mvc, Java,Maven, unit and integration test (Mockito, PowerMock, Postman), Elasticsearch, Java 7,Git
+*Tools* Spring Boot,Spring Data, Spring mvc, Java,Maven,Gradle, unit and integration test (Mockito, PowerMock, Postman), Spring reactor, Spring Cloud Gateway, Spring cloud Stream 
 
 
 
